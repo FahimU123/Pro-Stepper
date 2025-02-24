@@ -16,7 +16,7 @@ This application is built using a combination of powerful frameworks and technol
 
 - **SwiftUI**: Provides a modern, responsive, and declarative user interface that is both visually appealing and easy to maintain.
 - **Vision & CoreML**: Enable real-time motion tracking and machine learning-based exercise analysis, ensuring a customized therapy experience.
-- **AVFoundation**: Powers real-time audio feedback and guided exercise instructions to enhance user engagement.
+- **AVFoundation**: Provides access to the camera for real-time motion tracking and analysis.
 - **SwiftData & Foundation**: Ensure efficient data management and performance tracking for seamless user progress monitoring.
 
 The project follows a clean and modular architecture, making it scalable and easy to maintain. By leveraging these frameworks, Pro Stepper delivers a seamless and interactive rehabilitation experience tailored to individual needs.
@@ -45,5 +45,7 @@ With **Pro Stepper**, physical therapy becomes an interactive and intelligent ex
 ### **Demo**
 
 Coming soon...
+
+
 
 
