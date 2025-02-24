@@ -1,12 +1,12 @@
-**Bangladesh AR Experience - Joy Bangla**
+**Pro Stepper - Intelligent Physical Therapy**
 
-**This Swift AR Application was created as an innovative showcase of Bangladesh's rich cultural heritage.**
+**This Swift iPad Application gamifies physical therapy by leveraging machine learning to optimize rehab exercises.**
 
 ---
 
 ### **Introduction**
 
-Bangladesh AR Experience is an augmented reality educational app designed exclusively for iPad. It brings the vibrant culture of Bangladesh to life by featuring interactive 3D models of flags, iconic landmarks, traditional cuisine, and distinctive vehicles. With an engaging welcome audio message, the app offers users an immersive journey into the heart of Bangladesh, blending digital content with the real world for a truly captivating experience.
+Pro Stepper is an innovative iPad application that transforms routine physical therapy into an engaging and interactive experience. By using advanced machine learning techniques, it personalizes rehab exercises to keep users motivated and help them achieve better results. The app ensures a data-driven approach to physical therapy, making rehabilitation both efficient and enjoyable.
 
 ---
 
@@ -15,12 +15,11 @@ Bangladesh AR Experience is an augmented reality educational app designed exclus
 This application is built using a combination of powerful frameworks and technologies:
 
 - **SwiftUI**: Provides a modern, responsive, and declarative user interface that is both visually appealing and easy to maintain.
-- **RealityKit & SceneKit**: Render and animate detailed 3D models that represent Bangladesh’s flags, landmarks, cuisine, and vehicles, delivering a rich AR experience.
-- **AVFoundation**: Powers the welcome audio message and any other audio cues within the app, enhancing user engagement.
-- **Vision & CoreML**: Enable intelligent object recognition and machine learning-based interactions for a more dynamic user experience.
-- **SwiftData & Foundation**: Ensure efficient data management and app performance, allowing seamless integration of multimedia content.
+- **Vision & CoreML**: Enable real-time motion tracking and machine learning-based exercise analysis, ensuring a customized therapy experience.
+- **AVFoundation**: Powers real-time audio feedback and guided exercise instructions to enhance user engagement.
+- **SwiftData & Foundation**: Ensure efficient data management and performance tracking for seamless user progress monitoring.
 
-The project is structured around a clean and modular architecture, ensuring scalability and ease of maintenance. By leveraging these frameworks, the app delivers a seamless augmented reality experience that overlays educational content directly onto your environment.
+The project follows a clean and modular architecture, making it scalable and easy to maintain. By leveraging these frameworks, Pro Stepper delivers a seamless and interactive rehabilitation experience tailored to individual needs.
 
 ---
 
@@ -29,21 +28,22 @@ The project is structured around a clean and modular architecture, ensuring scal
 #### **Download and Build:**
 1. Clone or download the project from the repository.
 2. Open the project in Xcode.
-3. Build and run the app on an ARKit-compatible iPad.
+3. Build and run the app on an iPad.
 
 #### **Permissions:**
-- Upon launch, the app will prompt you to grant camera access. This is a critical requirement for the AR functionality.
+- Upon launch, the app will prompt you to grant camera access. This is necessary for real-time motion tracking and analysis.
 
 #### **Experience:**
-- Enjoy the immersive welcome audio message.
-- Explore and interact with the 3D models that showcase Bangladesh's cultural highlights.
-- Follow the on-screen instructions to learn more about each featured element.
+- Follow guided exercises with real-time feedback.
+- Track and analyze movement patterns to ensure effective rehabilitation.
+- Enjoy personalized progress updates and adaptive difficulty levels.
 
-Enjoy your journey through Bangladesh's cultural heritage with **Bangladesh AR Experience**, and discover the fascinating stories behind its symbols and traditions!
+With **Pro Stepper**, physical therapy becomes an interactive and intelligent experience, empowering users to recover efficiently while staying motivated.
 
 ---
 
 ### **Demo**
 
 Coming soon...
+
 
